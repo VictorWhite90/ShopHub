@@ -11,7 +11,7 @@ const Home = () => {
 
   const heroSlides = [
     {
-      title: "Summer Collection 2024",
+      title: "Summer Collection 2025",
       subtitle: "Discover the Latest Trends",
       description: "Explore our curated selection of premium products",
       image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200",
