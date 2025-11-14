@@ -1,0 +1,10 @@
+/* Fonts import MUST be first (before Tailwind) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Tailwind v4 import (replaces @tailwind directives) */
+@import "tailwindcss";
+
+/* Custom rules last */
+* {
+  scroll-behavior: smooth;
+}
